@@ -4,6 +4,8 @@ Diagrams and visualizations to support learning core concepts in [Physics for En
 
 ```
 physics_for_engineers_diagrams/
+├── impulse_and_momentum/
+│   └── impulse_and_momentum_assessment.ipynb
 ├── statics/
 │   └── statics_assessment.ipynb
 ├── work_energy_and_power/
