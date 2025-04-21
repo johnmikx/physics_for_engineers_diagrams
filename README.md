@@ -6,6 +6,8 @@ Diagrams and visualizations to support learning core concepts in [Physics for En
 physics_for_engineers_diagrams/
 ├── statics/
 │   └── statics_assessment.ipynb
+├── work_energy_and_power/
+│   └── work_energy_and_power_asssessment.ipynb
 ├── LICENSE.txt
 └── README.md
 ```
